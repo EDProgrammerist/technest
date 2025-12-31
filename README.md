@@ -1,6 +1,6 @@
 <h1 align="center">✨ Full-Stack Technest Store ✨</h1>
 
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -10,7 +10,7 @@
 
 
 
-![Demo App]()
+![Demo App](https://github.com/EDProgrammerist/technest/blob/master/frontend/public/Preview.png?raw=true)
 
 ✨ Highlights
 
